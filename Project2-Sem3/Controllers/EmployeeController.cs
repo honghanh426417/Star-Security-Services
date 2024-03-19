@@ -16,9 +16,11 @@ namespace Project2_Sem3.Controllers
         }
 
         // GET: Employees
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            return View(await _context.Employees.ToListAsync());
+            List<Employee> employees = _context.Employees.ToList();
+
+            return View(employees);
         }
 
         // GET: Employees/Details/5

@@ -5,364 +5,268 @@
       "PackagePath": "staticwebassets/Project2-Sem3.bundle.scp.css"
     },
     {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/backblue.gif",
       "PackagePath": "staticwebassets/backblue.gif"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/css/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/css/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/css/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/css/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/css/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/css/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/css/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/css/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.js",
+      "PackagePath": "staticwebassets/css/bootstrap.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.js.map",
+      "PackagePath": "staticwebassets/css/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.min.js",
+      "PackagePath": "staticwebassets/css/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/contact.css",
+      "PackagePath": "staticwebassets/css/contact.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/plugins.css",
+      "PackagePath": "staticwebassets/css/plugins.css"
     },
     {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/team.css",
+      "PackagePath": "staticwebassets/css/team.css"
+    },
+    {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fade.gif",
       "PackagePath": "staticwebassets/fade.gif"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/.DS_Store",
+      "PackagePath": "staticwebassets/htmldemo.net/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/.DS_Store",
+      "PackagePath": "staticwebassets/htmldemo.net/safzon/.DS_Store"
     },
     {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/about.html",
       "PackagePath": "staticwebassets/htmldemo.net/safzon/about.html"
     },
     {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/css/contact.css",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/css/contact.css"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/css/plugins.css",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/css/plugins.css"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/css/style.css",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/css/style.css"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/css/team.css",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/css/team.css"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/Material-Design-Iconic-Fontd1f1.ttf",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/Material-Design-Iconic-Fontd1f1.ttf"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/Material-Design-Iconic-Fontd1f1.woff",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/Material-Design-Iconic-Fontd1f1.woff"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/Material-Design-Iconic-Fontd1f1.woff2",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/Material-Design-Iconic-Fontd1f1.woff2"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.eot",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.eot"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.svg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.svg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.ttf",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.ttf"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.woff",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.woff"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.woff2",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/fontawesome-webfont3e6e.woff2"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/fonts/fontawesome-webfontd41d.eot",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/fonts/fontawesome-webfontd41d.eot"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/about/about-01.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/about/about-01.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/bg/bg-01.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/bg/bg-01.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/bg/breadcrumb-bg.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/bg/breadcrumb-bg.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/bg/counter-bg.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/bg/counter-bg.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/blog-details.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/blog-details.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/blog-side-01.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/blog-side-01.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/thum-01.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/thum-01.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/thum-02.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/thum-02.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/thum-03.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/thum-03.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/thum-04.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/thum-04.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/thum-05.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/thum-05.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/blog/thum-06.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/blog/thum-06.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/favicon.ico",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/favicon.ico"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-01.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-01.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-02.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-02.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-03.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-03.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-04.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-04.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-05.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-05.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-06.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-06.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-07.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-07.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-08.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-08.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/gallery/gallery-09.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/gallery/gallery-09.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/hero/hero-1.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/hero/hero-1.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/hero/hero-2.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/hero/hero-2.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/c-01.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/c-01.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/c-02.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/c-02.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/c-03.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/c-03.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/fun-01.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/fun-01.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/fun-02.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/fun-02.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/fun-03.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/fun-03.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/fun-04.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/fun-04.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/service-01.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/service-01.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/service-02.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/service-02.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/service-03.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/service-03.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/icon/service-04.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/icon/service-04.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/logo/logo.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/logo/logo.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/review/comment-1.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/review/comment-1.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/review/comment-2.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/review/comment-2.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-01.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-01.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-02.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-02.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-03.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-03.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-04.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-04.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-05.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-05.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-06.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-06.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/serviece/service-details01.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/serviece/service-details01.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/download (4).jpeg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/download (4).jpeg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/download (5).jpeg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/download (5).jpeg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/download.jpeg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/download.jpeg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-01.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-01.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-02.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-02.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-03.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-03.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-04.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-04.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-05.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-05.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-06.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-06.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-07.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-07.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-08.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-08.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-09.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-09.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-10.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-10.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-11.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-11.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-12.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-12.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-13.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-13.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-14.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-14.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-15.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-15.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-16.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-16.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-17.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-17.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-18.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-18.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-19.jpg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-19.jpg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-20.jpeg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-20.jpeg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/team/team-21.jpeg",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/team/team-21.jpeg"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/testimoniail/01.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/testimoniail/01.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/images/testimoniail/02.png",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/images/testimoniail/02.png"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/js/main.js",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/js/main.js"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/js/plugins.js",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/js/plugins.js"
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/assets/.DS_Store",
+      "PackagePath": "staticwebassets/htmldemo.net/safzon/assets/.DS_Store"
     },
     {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/blog-details.html",
@@ -375,10 +279,6 @@
     {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/boxed-layout.html",
       "PackagePath": "staticwebassets/htmldemo.net/safzon/boxed-layout.html"
-    },
-    {
-      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/contact-us.html",
-      "PackagePath": "staticwebassets/htmldemo.net/safzon/contact-us.html"
     },
     {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/htmldemo.net/safzon/contact.html",
@@ -437,8 +337,308 @@
       "PackagePath": "staticwebassets/hts-log.txt"
     },
     {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/about/about-01.png",
+      "PackagePath": "staticwebassets/images/about/about-01.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/bg/bg-01.png",
+      "PackagePath": "staticwebassets/images/bg/bg-01.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/bg/breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets/images/bg/breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/bg/counter-bg.jpg",
+      "PackagePath": "staticwebassets/images/bg/counter-bg.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/blog-details.jpg",
+      "PackagePath": "staticwebassets/images/blog/blog-details.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/blog-side-01.jpg",
+      "PackagePath": "staticwebassets/images/blog/blog-side-01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-01.jpg",
+      "PackagePath": "staticwebassets/images/blog/thum-01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-02.jpg",
+      "PackagePath": "staticwebassets/images/blog/thum-02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-03.jpg",
+      "PackagePath": "staticwebassets/images/blog/thum-03.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-04.jpg",
+      "PackagePath": "staticwebassets/images/blog/thum-04.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-05.jpg",
+      "PackagePath": "staticwebassets/images/blog/thum-05.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-06.jpg",
+      "PackagePath": "staticwebassets/images/blog/thum-06.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/favicon.ico",
+      "PackagePath": "staticwebassets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-01.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-02.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-03.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-03.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-04.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-04.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-05.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-05.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-06.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-06.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-07.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-07.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-08.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-08.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-09.jpg",
+      "PackagePath": "staticwebassets/images/gallery/gallery-09.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/hero/hero-1.jpg",
+      "PackagePath": "staticwebassets/images/hero/hero-1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/hero/hero-2.jpg",
+      "PackagePath": "staticwebassets/images/hero/hero-2.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/c-01.png",
+      "PackagePath": "staticwebassets/images/icon/c-01.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/c-02.png",
+      "PackagePath": "staticwebassets/images/icon/c-02.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/c-03.png",
+      "PackagePath": "staticwebassets/images/icon/c-03.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-01.png",
+      "PackagePath": "staticwebassets/images/icon/fun-01.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-02.png",
+      "PackagePath": "staticwebassets/images/icon/fun-02.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-03.png",
+      "PackagePath": "staticwebassets/images/icon/fun-03.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-04.png",
+      "PackagePath": "staticwebassets/images/icon/fun-04.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-01.png",
+      "PackagePath": "staticwebassets/images/icon/service-01.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-02.png",
+      "PackagePath": "staticwebassets/images/icon/service-02.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-03.png",
+      "PackagePath": "staticwebassets/images/icon/service-03.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-04.png",
+      "PackagePath": "staticwebassets/images/icon/service-04.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/logo/logo.png",
+      "PackagePath": "staticwebassets/images/logo/logo.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/review/comment-1.jpg",
+      "PackagePath": "staticwebassets/images/review/comment-1.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/review/comment-2.jpg",
+      "PackagePath": "staticwebassets/images/review/comment-2.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-01.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-02.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-03.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-03.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-04.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-04.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-05.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-05.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-06.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-06.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-details01.jpg",
+      "PackagePath": "staticwebassets/images/serviece/service-details01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/.DS_Store",
+      "PackagePath": "staticwebassets/images/team/.DS_Store"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/download (4).jpeg",
+      "PackagePath": "staticwebassets/images/team/download (4).jpeg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/download (5).jpeg",
+      "PackagePath": "staticwebassets/images/team/download (5).jpeg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/download.jpeg",
+      "PackagePath": "staticwebassets/images/team/download.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-01.jpg",
+      "PackagePath": "staticwebassets/images/team/team-01.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-02.jpg",
+      "PackagePath": "staticwebassets/images/team/team-02.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-03.jpg",
+      "PackagePath": "staticwebassets/images/team/team-03.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-04.jpg",
+      "PackagePath": "staticwebassets/images/team/team-04.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-05.jpg",
+      "PackagePath": "staticwebassets/images/team/team-05.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-06.jpg",
+      "PackagePath": "staticwebassets/images/team/team-06.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-07.jpg",
+      "PackagePath": "staticwebassets/images/team/team-07.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-08.jpg",
+      "PackagePath": "staticwebassets/images/team/team-08.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-09.jpg",
+      "PackagePath": "staticwebassets/images/team/team-09.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-10.jpg",
+      "PackagePath": "staticwebassets/images/team/team-10.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-11.jpg",
+      "PackagePath": "staticwebassets/images/team/team-11.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-12.jpg",
+      "PackagePath": "staticwebassets/images/team/team-12.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-13.jpg",
+      "PackagePath": "staticwebassets/images/team/team-13.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-14.jpg",
+      "PackagePath": "staticwebassets/images/team/team-14.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-15.jpg",
+      "PackagePath": "staticwebassets/images/team/team-15.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-16.jpg",
+      "PackagePath": "staticwebassets/images/team/team-16.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-17.jpg",
+      "PackagePath": "staticwebassets/images/team/team-17.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-18.jpg",
+      "PackagePath": "staticwebassets/images/team/team-18.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-19.jpg",
+      "PackagePath": "staticwebassets/images/team/team-19.jpg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-20.jpeg",
+      "PackagePath": "staticwebassets/images/team/team-20.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-21.jpeg",
+      "PackagePath": "staticwebassets/images/team/team-21.jpeg"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/testimoniail/01.png",
+      "PackagePath": "staticwebassets/images/testimoniail/01.png"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/testimoniail/02.png",
+      "PackagePath": "staticwebassets/images/testimoniail/02.png"
+    },
+    {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/js/plugins.js",
+      "PackagePath": "staticwebassets/js/plugins.js"
     },
     {
       "Id": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/js/site.js",

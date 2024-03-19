@@ -22,9 +22,18 @@
   <ItemGroup>
     <None Remove="Views\Web\" />
     <None Remove="Data\" />
+    <None Remove="Views\Employee\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Web\" />
     <Folder Include="Data\" />
+    <Folder Include="Views\Employee\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\fonts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\images\" />
+    <Content Remove="wwwroot\fonts\" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,31 @@
+﻿@model List<Project2_Sem3.Models.Employee>
+
+<div class="row" id="employee-card">
+    <!-- Start Single Team -->
+    @foreach (var employee in Model)
+    {
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+            <div class="team team-8 mb-30">
+                <div class="thumb">
+                    <a href="#">
+                        <img src="@employee.Image" alt="team img">
+                    </a>
+                </div>
+                <div class="team-info">
+                    <div class="content">
+                        <h4><a href="#">@employee.Name</a></h4>
+                        <span>@employee.Role</span>
+                    </div>
+                    <ul class="social-network social-net-2">
+                        <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a class="vimeo" href="#"><i class="fa fa-vimeo"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+
+    <!-- End Single Team -->
+</div>
