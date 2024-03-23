@@ -21,6 +21,18 @@ namespace Project2_Sem3.Controllers
             List<Employee> employees = _context.Employees.ToList();
 
             return View(employees);
+
+        }
+        //public async Task<IActionResult> Team()
+        //{
+        //    var employees = await _context.Employees.ToListAsync();
+        //    return View(employees);
+        //}
+
+        public IActionResult Page(string page)
+        {
+           
+            return View(page);
         }
 
         // GET: Employees/Details/5

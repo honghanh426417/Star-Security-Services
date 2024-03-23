@@ -20,12 +20,10 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.12" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="Views\Web\" />
     <None Remove="Data\" />
     <None Remove="Views\Employee\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Views\Web\" />
     <Folder Include="Data\" />
     <Folder Include="Views\Employee\" />
     <Folder Include="wwwroot\images\" />

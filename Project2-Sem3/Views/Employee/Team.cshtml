@@ -1,31 +1,78 @@
 ﻿@model List<Project2_Sem3.Models.Employee>
 
-<div class="row" id="employee-card">
-    <!-- Start Single Team -->
-    @foreach (var employee in Model)
-    {
-        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
-            <div class="team team-8 mb-30">
-                <div class="thumb">
-                    <a href="#">
-                        <img src="@employee.Image" alt="team img">
-                    </a>
-                </div>
-                <div class="team-info">
-                    <div class="content">
-                        <h4><a href="#">@employee.Name</a></h4>
-                        <span>@employee.Role</span>
-                    </div>
-                    <ul class="social-network social-net-2">
-                        <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a class="vimeo" href="#"><i class="fa fa-vimeo"></i></a></li>
-                    </ul>
-                </div>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="~/css/Team.css" asp-append-version="true" />
+
+<div class="breadcrumb-area bg-image section-ptb" style="background-image: url(/images/bg/breadcrumb-bg.jpg)">
+    <div class="container">
+        <div class="row breadcrumb">
+            <div class="col">
+                <h2>Team Page</h2>
+
+                <ul class="breadcrumb-list">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Home</a></li>
+                    <li class="breadcrumb-item active">Team</li>
+                </ul>
+
             </div>
         </div>
-    }
-
-    <!-- End Single Team -->
+    </div>
 </div>
+
+
+<main class="page-content">
+
+    <div class="section-team section-pt section-pb-90 bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title text-center">
+                        <h2>Our Guards</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore</p>
+                    </div>
+                </div>
+            </div>
+
+        
+
+            <div class="row" id="employee-card">
+                @if (Model != null)
+                    {
+                    @foreach (var employee in Model)
+                        {
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="team team-8 mb-30">
+                                <div class="thumb">
+                                    <a href="#">
+                                        <img src="@employee.Image" alt="team img">
+                                    </a>
+                                </div>
+                                <div class="team-info">
+                                    <div class="content">
+                                        <h4><a href="#">@employee.Name</a></h4>
+                                        <span>@employee.Department.</span>
+                                    </div>
+                                    <ul class="social-network social-net-2">
+                                        <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a class="vimeo" href="#"><i class="fa fa-vimeo"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        }
+                    }
+                </div>
+    </div>
+    
+</div>
+
+
+</main>

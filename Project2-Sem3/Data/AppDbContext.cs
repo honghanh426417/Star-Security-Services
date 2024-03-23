@@ -8,7 +8,7 @@ namespace Project2_Sem3.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
-            Database.EnsureCreated();
+            
         }
 
         public DbSet<Employee> Employees { get; set; }

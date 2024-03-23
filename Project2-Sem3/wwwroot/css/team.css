@@ -1,8 +1,12 @@
-#employee-card{
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  column-gap: 10px;
+#employee-card {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
 }
-#employee-card .col-xl-4 {
-  width: 100%;
-}
+
+    #employee-card .col-xl-4 {
+        width: 100%;
+    }
+/*.breadcrumb-area {
+    background-image: url(images/bg/breadcrumb-bg.jpg);
+}*/

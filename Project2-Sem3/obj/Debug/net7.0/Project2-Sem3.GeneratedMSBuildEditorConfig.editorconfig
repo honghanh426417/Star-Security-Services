@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/apple/Documents/Project2-Sem3/Project2-Sem3
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvYmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvU2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Team.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

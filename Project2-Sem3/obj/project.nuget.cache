@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cuhK4si1cTAuufMvViHieU9GaIt7xcbn4I3r0ozIGapsOB9rXximJqwalv+dMI7Mr8OIOZ32w0clJPJ2YtVCXg==",
+  "dgSpecHash": "Q/0hTSykNFlz5WAQFsgnVWOuh7lDqhtaiyGllPMDDbv+Fk1+qcAGIvKAO1XX1f7ojWqSB8evL4Z1FMechC75kQ==",
   "success": true,
   "projectFilePath": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Project2-Sem3.csproj",
   "expectedPackageFiles": [
@@ -236,10 +236,7 @@
     "/Users/apple/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/apple/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/apple/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+    "/Users/apple/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
