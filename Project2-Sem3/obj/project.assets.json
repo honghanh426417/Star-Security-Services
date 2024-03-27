@@ -11675,11 +11675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Project2-Sem3.csproj",
+      "projectUniqueName": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Project2-Sem3.csproj",
       "projectName": "Project2-Sem3",
-      "projectPath": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Project2-Sem3.csproj",
+      "projectPath": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Project2-Sem3.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/",
+      "outputPath": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"
@@ -11701,6 +11701,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11741,6 +11746,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -11749,7 +11768,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

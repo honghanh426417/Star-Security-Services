@@ -1,0 +1,345 @@
+﻿@model List<Project2_Sem3.Models.Service>
+
+@{
+    ViewData["Title"] = "Contact";
+}
+<link rel="stylesheet" href="~/css/Contact.css" asp-append-version="true" />
+
+
+
+<div class="breadcrumb-area bg-image section-ptb"
+     style="background-image: url(/images/bg/breadcrumb-bg.jpg)">
+    <div class="container">
+        <div class="row breadcrumb">
+            <div class="col">
+                <h2>Contact Us</h2>
+                <!-- breadcrumb-list start -->
+                <ul class="breadcrumb-list">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Home</a></li>
+                    <li class="breadcrumb-item active">Contact Us</li>
+                </ul>
+                <!-- breadcrumb-list end -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<main class="page-content">
+    <div class="sub-content">
+        <div id="form-contact" class="row box-contact">
+            <div id="left-contact" class="col-xs-12 col-sm-5 group-address">
+                <div class="address">
+                    <h3>Security Services JSC.</h3>
+                    <div class="address-list">
+                        <i class="fa fa-building" aria-hidden="true"></i>
+                        <strong>Headquarters</strong>
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i> Address: Km92,
+                        New Highway No.5, Hung Vuong Ward, Hong Bang District, Hai Phong
+                        City, Vietnam.
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-phone" aria-hidden="true"></i> TEL: 0225-379-8966
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-user"></i> Mr. Kotani Makoto (JP)<br />
+                        Ms. Hao Nguyen (VN)
+                    </div>
+                    <div></div>
+                    <div class="address-list">
+                        <i class="fa fa-building" aria-hidden="true"></i>
+                        <strong>Ho Chi Minh Branch</strong>
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i> Address: Floor
+                        15, L'Mak Long Tower, 101 - 103 Nguyen Cuu Van,Ward 17, Binh Thanh
+                        District, Ho Chi Minh city, Vietnam.
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-phone" aria-hidden="true"></i> TEL: 028-3620-4491
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-user"></i>Mr.Biwa Yoshihiro(JP)<br />
+                        Mr.NGUYỄN BẢO TRUNG(VN)
+                    </div>
+                    <div></div>
+                    <div class="address-list">
+                        <i class="fa fa-building" aria-hidden="true"></i>
+                        <strong>Ha Noi Office</strong>
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i> Address: 8th
+                        Floor, Detech Tower,<br />
+                        8 Ton That Thuyet St., My Dinh 2 Ward,<br />
+                        Nam Tu Liem Dist., Ha Noi, Vietnam
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-phone" aria-hidden="true"></i> Tel: 024-3785-4258
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-user"></i> Mr. Shunji Noda (JP)<br />
+                        Ms. Phuong Nguyen(VN)
+                    </div>
+                    <div></div>
+                    <div class="address-list">
+                        <i class="fa fa-building" aria-hidden="true"></i>
+                        <strong>Da Nang Branch</strong>
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i> Address: 159
+                        Be Van Dan, Chinh Gian,<br />
+                        Thanh Khe District, Da Nang, Vietnam
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-phone" aria-hidden="true"></i> Tel: 091-160-4455
+                    </div>
+                    <div class="address-list">
+                        <i class="fa fa-user"></i> Mr. Huy Vu(VN)
+                    </div>
+                    <div></div>
+                    <div class="address-list">
+                        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                        <strong>Email </strong> :
+                        <a href="mailto:info@alsok.com.vn">info@alsok.com.vn</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-preview-wrap">
+                <form class="preview-form-group"
+                      id="rc-form"
+                      enctype="multipart/form-data"
+                      accept-charset="UTF-8"
+                      data-remote="true"
+                      method="post">
+                    <div id="form-fields">
+                        <input type="hidden"
+                               name="referer"
+                               id="referer"
+                               value="https://www.alsok.com.vn/contact/"
+                               autocomplete="off" />
+                        <input type="hidden"
+                               name="title"
+                               id="title"
+                               value="Contact Us | ALSOK Vietnam"
+                               autocomplete="off" />
+                        <input type="hidden"
+                               name="confirm_page"
+                               id="confirm_page"
+                               value="true"
+                               autocomplete="off" />
+
+                        <div class="fields show-page clearfix">
+                            <dl class="form-preview-dl preview-company"
+                                id="contact-field-preview-bfbf97ab-c663-41b0-9d42-9a7a030fd434">
+                                <dt>
+                                    <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                    <span class="span-title">Company Name</span>
+                                </dt>
+                                <dd>
+                                    <input type="text"
+                                           name="company_name"
+                                           class="form-preview-input01" />
+                                    <p class="form-preview-help-text"></p>
+                                    <p class="form-preview-alert-text"></p>
+                                </dd>
+                            </dl>
+
+                            <dl class="form-preview-dl preview-user-name"
+                                id="contact-field-preview-9e94ebdb-df96-4b78-8b8d-da87cbfa3f6a">
+                                <dt>
+                                    <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                    <span class="span-title">Your Name</span>
+                                </dt>
+                                <dd>
+                                    <input type="text"
+                                           name="family_name"
+                                           class="form-preview-input01" />
+
+                                    <p class="form-preview-help-text"></p>
+                                    <p class="form-preview-alert-text"></p>
+                                </dd>
+                            </dl>
+
+                            <dl class="form-preview-dl preview-email"
+                                id="contact-field-preview-27187d06-2694-4fa9-9e40-afa9070a2a05">
+                                <dt>
+                                    <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                    <span class="span-title">Email Address</span>
+                                </dt>
+                                <dd>
+                                    <input type="text"
+                                           name="email"
+                                           class="form-preview-input01" />
+
+                                    <p class="form-preview-alert-text"></p>
+                                </dd>
+                                <dl class="form-preview-dl preview-email-confirmation"
+                                    style="border: none">
+                                    <dt>
+                                        <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                        <span class="span-title">Email Address（Confirm）</span>
+                                    </dt>
+                                    <dd>
+                                        <input type="text"
+                                               name="email_confirmation"
+                                               class="form-preview-input01" />
+                                        <p class="form-preview-help-text"></p>
+                                    </dd>
+                                </dl>
+                            </dl>
+
+                            <dl class="form-preview-dl preview-tel_no"
+                                id="contact-field-preview-d1b4a811-e66b-4531-94d8-9e19e929d98f">
+                                <dt>
+                                    <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                    <span class="span-title">Phone</span>
+                                </dt>
+                                <dd>
+                                    <input type="text"
+                                           name="phone_number"
+                                           class="form-preview-input01" />
+                                    <p class="form-preview-help-text"></p>
+                                    <p class="form-preview-alert-text"></p>
+                                </dd>
+                            </dl>
+                            <dl class="form-preview-dl preview-tel_no">
+                                <dt>
+                                    <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                    <span class="span-title">Service:</span>
+                                </dt>
+                                <dd>
+                                    <label for="services">Choose a service:</label>
+                                    <select name="services" id="services">
+                                        @foreach (var service in ViewBag.Services)
+                                        {
+                                            <option value="@service?.Id">@service.Name</option>
+                                        }
+                                    </select>
+                                </dd>
+                            </dl>
+
+                            <dl class="form-preview-dl preview-checkbox-20220218151055314"
+                                id="contact-field-preview-eaccdb29-eec4-46b9-994f-cdedec94f4f0">
+                                <dt>
+                                    <span class="preview-contact-required_label form-preview-reqiured">Req</span>
+                                    <span class="span-title">Area</span>
+                                </dt>
+                                <dd>
+                                    <label>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314[]"
+                                               value="Hai Phong" />
+                                        <span class="labeled_text"> Hai Phong</span>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key[]"
+                                               value="Hai Phong"
+                                               class="hidden" />
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key_value[]"
+                                               value="Hai Phong"
+                                               class="hidden" />
+                                    </label>
+                                    <label>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314[]"
+                                               value="Ha Noi" />
+                                        <span class="labeled_text"> Ha Noi</span>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key[]"
+                                               value="Ha Noi"
+                                               class="hidden" />
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key_value[]"
+                                               value="Ha Noi"
+                                               class="hidden" />
+                                    </label>
+                                    <label>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314[]"
+                                               value="Da Nang" />
+                                        <span class="labeled_text"> Da Nang</span>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key[]"
+                                               value="Da Nang"
+                                               class="hidden" />
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key_value[]"
+                                               value="Da Nang"
+                                               class="hidden" />
+                                    </label>
+                                    <label>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314[]"
+                                               value="Ho Chi Minh" />
+                                        <span class="labeled_text"> Ho Chi Minh</span>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key[]"
+                                               value="Ho Chi Minh"
+                                               class="hidden" />
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key_value[]"
+                                               value="Ho Chi Minh"
+                                               class="hidden" />
+                                    </label>
+                                    <label>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314[]"
+                                               value="Other" />
+                                        <span class="labeled_text"> Other</span>
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key[]"
+                                               value="Other"
+                                               class="hidden" />
+                                        <input type="checkbox"
+                                               name="check_box-20220218151055314_key_value[]"
+                                               value="Other"
+                                               class="hidden" />
+                                    </label>
+                                    <p class="form-preview-help-text">
+                                        Please check the area where you are located
+                                    </p>
+                                    <p class="form-preview-alert-text"></p>
+                                </dd>
+                            </dl>
+
+                            <dl class="form-preview-dl preview-textarea-1"
+                                id="contact-field-preview-32c2d191-2b50-4af8-9958-cde384e9ef63">
+                                <dt>
+                                    <span class="preview-contact-not_required_label form-preview-not-reqiured">Opt</span>
+                                    <span class="span-title">Detail</span>
+                                </dt>
+                                <dd>
+                                    <textarea name="text_area-1"
+                                              class="form-preview-input01"
+                                              style="resize: none"
+                                              rows="5"
+                                              id="span-detail"></textarea>
+                                    <p class="form-preview-help-text"></p>
+                                    <p class="form-preview-alert-text"></p>
+                                </dd>
+                            </dl>
+                        </div>
+                        <div align="center" class="show-page-btn" id="input-page-btn">
+                            <button name="button"
+                                    type="submit"
+                                    class="btn"
+                                    data-disable-with='<i class="fa fa-spinner fa-spin"></i> Send'>
+                                Send
+                            </button>
+                        </div>
+                    </div>
+                    <div id="confirm-fields" style="display: none"></div>
+                    <div class="form-preview-alert-text"
+                         id="help-exclude-info-recaptcha"
+                         style="display: none">
+                        <span></span>
+                    </div>
+                </form>
+            </div>
+            <!-- <div class="col-xs-12 col-sm-7"><script id="_bownow_cs_sid_574f786896497403bb77">var _bownow_cs_sid_574f786896497403bb77 = document.createElement('script');_bownow_cs_sid_574f786896497403bb77.charset = 'utf-8';_bownow_cs_sid_574f786896497403bb77.src = 'https://contents.bownow.jp/forms/sid_574f786896497403bb77/trace.js';document.getElementsByTagName('head')[0].appendChild(_bownow_cs_sid_574f786896497403bb77);</script><iframe id="_bownow_iframe_sid_574f786896497403bb77" src="https://contents.bownow.jp/forms/view/sid_574f786896497403bb77/dc1e7245-e5a3-404d-a7fb-637636f14816?title=Contact%20Us%20%7C%20ALSOK%20Vietnam&amp;referer=https%3A%2F%2Fwww.alsok.com.vn%2Fcontact%2F" width="90%" height="1190" frameborder="0" allowtransparency="true" scrolling="yes" style="border: none; overflow: hidden;"></iframe></div> -->
+        </div>
+    </div>
+
+</main>

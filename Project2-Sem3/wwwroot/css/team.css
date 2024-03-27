@@ -7,6 +7,22 @@
     #employee-card .col-xl-4 {
         width: 100%;
     }
-/*.breadcrumb-area {
-    background-image: url(images/bg/breadcrumb-bg.jpg);
-}*/
+
+.team .thumb a {
+    display: block;
+    height: 300px;
+}
+
+    .team .thumb a img {
+        height: 100%;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+    }
+.service-details-lg-image img{
+    width: 80% ;
+    height: 500px;
+    object-fit: cover;
+}
+.section-service bg-gray section-pt section-pb .container {
+    margin: 0px 150px 100px 150px
+}

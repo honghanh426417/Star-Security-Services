@@ -10,7 +10,7 @@ using Project2_Sem3.Data;
 namespace Project2_Sem3.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240319015914_SeedData")]
+    [Migration("20240327164812_SeedData")]
     partial class SeedData
     {
         /// <inheritdoc />
@@ -58,6 +58,9 @@ namespace Project2_Sem3.Migrations
                     b.Property<string>("Role")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("Sex")
+                        .HasColumnType("TEXT");
+
                     b.HasKey("Id");
 
                     b.ToTable("Employee", (string)null);
@@ -76,7 +79,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-01.jpg",
                             Name = "Bun Laura",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -91,7 +95,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-02.jpg",
                             Name = "Bun Hara",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -106,7 +111,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-03.jpg",
                             Name = "Mab Jahgy",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -121,7 +127,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-04.jpg",
                             Name = "kan BUug",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -136,7 +143,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-05.jpg",
                             Name = "Hanh Jsi",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -151,7 +159,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-06.jpg",
                             Name = "Ks Haby",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -166,7 +175,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-07.jpg",
                             Name = "Kja Xag",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -181,7 +191,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-08.jpg",
                             Name = "Rva Ham",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -196,7 +207,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-09.jpg",
                             Name = "Ea Chu",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -211,7 +223,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-10.jpg",
                             Name = "Bahu Fy",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -226,7 +239,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-11.jpg",
                             Name = "Uab Bak",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -241,7 +255,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-12.jpg",
                             Name = "Ta Ha",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -256,7 +271,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-13.jpg",
                             Name = "Kab Banh",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -271,7 +287,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-14.jpg",
                             Name = "Cag Hai",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -286,7 +303,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-15.jpg",
                             Name = "Jauu Ban",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -301,7 +319,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-16.jpg",
                             Name = "Baj Mabj",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -316,7 +335,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-17.jpg",
                             Name = "Hani Bahy",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -331,7 +351,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-18.jpg",
                             Name = "Lanu Trae",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -346,7 +367,8 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-19.jpg",
                             Name = "Tayu Bau",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
                         },
                         new
                         {
@@ -361,7 +383,66 @@ namespace Project2_Sem3.Migrations
                             Grade = "A",
                             Image = "/images/team/team-20.jpg",
                             Name = "Caf Dar",
-                            Role = "Developer"
+                            Role = "Developer",
+                            Sex = "male"
+                        });
+                });
+
+            modelBuilder.Entity("Project2_Sem3.Models.Service", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("ServiceImg")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Service", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Description = "At [Company Name], we understand the paramount importance of safeguarding your assets, whether they be physical locations, data, or personnel. That's why we are proud to offer comprehensive security solutions tailored to meet your specific needs.\n\nOur team of highly trained security professionals is dedicated to providing top-tier protection for your business, ensuring peace of mind for you and your stakeholders. From on-site security personnel to advanced surveillance systems and access control measures, we employ the latest technologies and methodologies to mitigate risks and prevent unauthorized access.\n\nWith our proactive approach and unwavering commitment to excellence, you can trust us to safeguard your interests and uphold the highest standards of security at all times. Partner with us today and experience the difference that professional security services can make for your organization.",
+                            Name = "Private Security",
+                            ServiceImg = "/images/serviece/service-01.jpg"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Description = "At [Company Name], we understand the paramount importance of safeguarding your assets, whether they be physical locations, data, or personnel. That's why we are proud to offer comprehensive security solutions tailored to meet your specific needs.\n\nOur team of highly trained security professionals is dedicated to providing top-tier protection for your business, ensuring peace of mind for you and your stakeholders. From on-site security personnel to advanced surveillance systems and access control measures, we employ the latest technologies and methodologies to mitigate risks and prevent unauthorized access.\n\nWith our proactive approach and unwavering commitment to excellence, you can trust us to safeguard your interests and uphold the highest standards of security at all times. Partner with us today and experience the difference that professional security services can make for your organization.",
+                            Name = "Transport Security",
+                            ServiceImg = "/images/serviece/service-02.jpg"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Description = "At [Company Name], we understand the paramount importance of safeguarding your assets, whether they be physical locations, data, or personnel. That's why we are proud to offer comprehensive security solutions tailored to meet your specific needs.\n\nOur team of highly trained security professionals is dedicated to providing top-tier protection for your business, ensuring peace of mind for you and your stakeholders. From on-site security personnel to advanced surveillance systems and access control measures, we employ the latest technologies and methodologies to mitigate risks and prevent unauthorized access.\n\nWith our proactive approach and unwavering commitment to excellence, you can trust us to safeguard your interests and uphold the highest standards of security at all times. Partner with us today and experience the difference that professional security services can make for your organization.",
+                            Name = "Home Security",
+                            ServiceImg = "/images/serviece/service-03.jpg"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Description = "At [Company Name], we understand the paramount importance of safeguarding your assets, whether they be physical locations, data, or personnel. That's why we are proud to offer comprehensive security solutions tailored to meet your specific needs.\n\nOur team of highly trained security professionals is dedicated to providing top-tier protection for your business, ensuring peace of mind for you and your stakeholders. From on-site security personnel to advanced surveillance systems and access control measures, we employ the latest technologies and methodologies to mitigate risks and prevent unauthorized access.\n\nWith our proactive approach and unwavering commitment to excellence, you can trust us to safeguard your interests and uphold the highest standards of security at all times. Partner with us today and experience the difference that professional security services can make for your organization.",
+                            Name = "Self Security",
+                            ServiceImg = "/images/serviece/service-04.jpg"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Description = "At [Company Name], we understand the paramount importance of safeguarding your assets, whether they be physical locations, data, or personnel. That's why we are proud to offer comprehensive security solutions tailored to meet your specific needs.\n\nOur team of highly trained security professionals is dedicated to providing top-tier protection for your business, ensuring peace of mind for you and your stakeholders. From on-site security personnel to advanced surveillance systems and access control measures, we employ the latest technologies and methodologies to mitigate risks and prevent unauthorized access.\n\nWith our proactive approach and unwavering commitment to excellence, you can trust us to safeguard your interests and uphold the highest standards of security at all times. Partner with us today and experience the difference that professional security services can make for your organization.",
+                            Name = "Offical Security",
+                            ServiceImg = "/images/serviece/service-06.jpg"
                         });
                 });
 #pragma warning restore 612, 618

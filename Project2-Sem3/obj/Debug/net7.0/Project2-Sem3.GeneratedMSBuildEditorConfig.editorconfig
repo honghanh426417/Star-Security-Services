@@ -9,61 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project2_Sem3
 build_property.RootNamespace = Project2_Sem3
-build_property.ProjectDir = /Users/apple/Documents/Project2-Sem3/Project2-Sem3/
+build_property.ProjectDir = /Users/apple/Documents/Star-Security-Services/Project2-Sem3/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/apple/Documents/Project2-Sem3/Project2-Sem3
+build_property.MSBuildProjectDirectory = /Users/apple/Documents/Star-Security-Services/Project2-Sem3
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/About.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Employee/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/blog.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Employee/blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvYmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Contact.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Employee/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Gallery.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Employee/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvR2FsbGVyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Services.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Employee/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Employee/Team.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWUvVGVhbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Home/Index.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Home/Privacy.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Shared/Error.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Service/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Service/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/_ViewImports.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/_ViewStart.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/apple/Documents/Project2-Sem3/Project2-Sem3/Views/Shared/_Layout.cshtml]
+[/Users/apple/Documents/Star-Security-Services/Project2-Sem3/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cmbiblbh6s

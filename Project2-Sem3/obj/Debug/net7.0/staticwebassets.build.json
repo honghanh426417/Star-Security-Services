@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8dCKiDsDBrxAUv1oAOC1zKsj8qGbAO+ZhWWlJu645mE=",
+  "Hash": "aNgcdUNMNkk409y6VfGPlgEUUBHySE28gcSGXBX7OPI=",
   "Source": "Project2-Sem3",
   "BasePath": "_content/Project2-Sem3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Project2-Sem3/wwwroot",
       "Source": "Project2-Sem3",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/Debug/net7.0/scopedcss/bundle/Project2-Sem3.styles.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/Debug/net7.0/scopedcss/bundle/Project2-Sem3.styles.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "Project2-Sem3.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/Debug/net7.0/scopedcss/bundle/Project2-Sem3.styles.css"
+      "OriginalItemSpec": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/Debug/net7.0/scopedcss/bundle/Project2-Sem3.styles.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/Debug/net7.0/scopedcss/projectbundle/Project2-Sem3.bundle.scp.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/Debug/net7.0/scopedcss/projectbundle/Project2-Sem3.bundle.scp.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "Project2-Sem3.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/obj/Debug/net7.0/scopedcss/projectbundle/Project2-Sem3.bundle.scp.css"
+      "OriginalItemSpec": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/obj/Debug/net7.0/scopedcss/projectbundle/Project2-Sem3.bundle.scp.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/.DS_Store",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/.DS_Store",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": ".DS_Store",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/backblue.gif",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/backblue.gif",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "backblue.gif",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/backblue.gif"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/.DS_Store",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/css/.DS_Store",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/.DS_Store"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/contact.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/css/contact.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/contact.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/plugins.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/css/plugins.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "css/plugins.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/plugins.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/site.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/css/site.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/style.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/css/style.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/css/team.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/css/team.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "css/team.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/team.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fade.gif",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fade.gif",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fade.gif",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/fade.gif"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.eot",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.eot",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.svg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.svg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.ttf",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.ttf",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.woff",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.woff",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.woff2",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/fontawesome-webfont3e6e.woff2",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/fontawesome-webfont3e6e.woff2",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfont3e6e.woff2"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/fontawesome-webfontd41d.eot",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/fontawesome-webfontd41d.eot",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/fonts/fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-cache/doit.log",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-cache/doit.log",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-cache/doit.log",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/hts-cache/doit.log"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-cache/new.lst",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-cache/new.lst",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-cache/new.lst",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/hts-cache/new.lst"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-cache/new.txt",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-cache/new.txt",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-cache/new.txt",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/hts-cache/new.txt"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-cache/new.zip",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-cache/new.zip",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-cache/new.zip",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/hts-cache/new.zip"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-cache/readme.txt",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-cache/readme.txt",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-cache/readme.txt",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/hts-cache/readme.txt"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-cache/winprofile.ini",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-cache/winprofile.ini",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-cache/winprofile.ini",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/hts-cache/winprofile.ini"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/hts-log.txt",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/hts-log.txt",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "hts-log.txt",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/hts-log.txt"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/.DS_Store",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/.DS_Store",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/images/.DS_Store"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/about/about-01.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/about/about-01.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/about/about-01.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/images/about/about-01.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/bg/bg-01.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/bg/bg-01.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/bg/bg-01.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/images/bg/bg-01.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/bg/breadcrumb-bg.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/bg/breadcrumb-bg.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/bg/breadcrumb-bg.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/images/bg/breadcrumb-bg.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/bg/counter-bg.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/bg/counter-bg.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/bg/counter-bg.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/images/bg/counter-bg.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/blog-details.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/blog-details.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/blog-details.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/blog-details.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/blog-side-01.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/blog-side-01.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/blog-side-01.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/blog-side-01.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-01.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/thum-01.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/thum-01.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/thum-01.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-02.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/thum-02.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/thum-02.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/thum-02.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-03.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/thum-03.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/thum-03.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/thum-03.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-04.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/thum-04.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/thum-04.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/thum-04.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-05.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/thum-05.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/thum-05.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/thum-05.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/blog/thum-06.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/blog/thum-06.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/blog/thum-06.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/thum-06.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/favicon.ico",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/favicon.ico",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/images/favicon.ico"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-01.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-01.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-01.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-01.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-02.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-02.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-02.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-02.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-03.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-03.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-03.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-03.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-04.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-04.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-04.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-04.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-05.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-05.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-05.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-05.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-06.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-06.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-06.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-06.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-07.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-07.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-07.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-07.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-08.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-08.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-08.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-08.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/gallery/gallery-09.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/gallery/gallery-09.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/gallery/gallery-09.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/images/gallery/gallery-09.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/hero/hero-1.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/hero/hero-1.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/hero/hero-1.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/images/hero/hero-1.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/hero/hero-2.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/hero/hero-2.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/hero/hero-2.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/images/hero/hero-2.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/c-01.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/c-01.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/c-01.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/c-01.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/c-02.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/c-02.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/c-02.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/c-02.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/c-03.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/c-03.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/c-03.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/c-03.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-01.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/fun-01.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/fun-01.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/fun-01.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-02.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/fun-02.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/fun-02.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/fun-02.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-03.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/fun-03.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/fun-03.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/fun-03.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/fun-04.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/fun-04.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/fun-04.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/fun-04.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-01.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/service-01.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/service-01.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/service-01.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-02.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/service-02.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/service-02.png",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/service-02.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-03.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/service-03.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/service-03.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/service-03.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/icon/service-04.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/icon/service-04.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/icon/service-04.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/images/icon/service-04.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/logo/logo.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/logo/logo.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/logo/logo.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/logo.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/review/comment-1.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/review/comment-1.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/review/comment-1.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/images/review/comment-1.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/review/comment-2.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/review/comment-2.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/review/comment-2.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/images/review/comment-2.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-01.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-01.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-01.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-01.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-02.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-02.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-02.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-02.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-03.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-03.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-03.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-03.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-04.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-04.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-04.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-04.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-05.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-05.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-05.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-05.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-06.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-06.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-06.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-06.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/serviece/service-details01.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/serviece/service-details01.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/serviece/service-details01.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/images/serviece/service-details01.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/.DS_Store",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/.DS_Store",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/.DS_Store",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/images/team/.DS_Store"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/download (4).jpeg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/download (4).jpeg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/download (4).jpeg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/images/team/download (4).jpeg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/download (5).jpeg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/download (5).jpeg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/download (5).jpeg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/images/team/download (5).jpeg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/download.jpeg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/download.jpeg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/download.jpeg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/images/team/download.jpeg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-01.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-01.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-01.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-01.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-02.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-02.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-02.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-02.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-03.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-03.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-03.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-03.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-04.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-04.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-04.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-04.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-05.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-05.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-05.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-05.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-06.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-06.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-06.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-06.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-07.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-07.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-07.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-07.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-08.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-08.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-08.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-08.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-09.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-09.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-09.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-09.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-10.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-10.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-10.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-10.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-11.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-11.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-11.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-11.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-12.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-12.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-12.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-12.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-13.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-13.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-13.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-13.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-14.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-14.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-14.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-14.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-15.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-15.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-15.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-15.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-16.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-16.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-16.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-16.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-17.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-17.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-17.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-17.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-18.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-18.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-18.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-18.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-19.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-19.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-19.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-19.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-20.jpeg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-20.jpeg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-20.jpeg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-20.jpeg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/team/team-21.jpeg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/team/team-21.jpeg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/team/team-21.jpeg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/images/team/team-21.jpeg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/testimoniail/01.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/testimoniail/01.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/testimoniail/01.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/images/testimoniail/01.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/images/testimoniail/02.png",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/images/testimoniail/02.png",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "images/testimoniail/02.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/images/testimoniail/02.png"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/index.html",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/index.html",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/js/main.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/js/main.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/js/main.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/js/plugins.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/js/plugins.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "js/plugins.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/js/plugins.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/js/site.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/js/site.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/recruitment_img12_l.jpg",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/recruitment_img12_l.jpg",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "recruitment_img12_l.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot/recruitment_img12_l.jpg"
     },
     {
-      "Identity": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/www.googletagmanager.com/gtm5445.html",
+      "Identity": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/www.googletagmanager.com/gtm5445.html",
       "SourceId": "Project2-Sem3",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/apple/Documents/Project2-Sem3/Project2-Sem3/wwwroot/",
+      "ContentRoot": "/Users/apple/Documents/Star-Security-Services/Project2-Sem3/wwwroot/",
       "BasePath": "_content/Project2-Sem3",
       "RelativePath": "www.googletagmanager.com/gtm5445.html",
       "AssetKind": "All",
