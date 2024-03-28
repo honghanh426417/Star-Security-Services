@@ -1,0 +1,14 @@
+﻿@model Project2_Sem3.Models.Employee
+
+@{
+    ViewData["Title"] = "Details";
+    var employee = ViewBag.Employee as Project2_Sem3.Models.Employee;
+
+}
+
+<div>
+    <h1>Employee Details</h1>
+    <p><strong>Name:</strong> @employee?.Name</p>
+    <p><strong>Department:</strong> @employee?.Department</p>
+    <!-- Các thuộc tính khác của Employee có thể được hiển thị tại đây -->
+</div>

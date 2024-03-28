@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Project2_Sem3.Data;
 using Project2_Sem3.Models;
-using System.Threading.Tasks;
 
 namespace Project2_Sem3.Controllers
 {
@@ -38,20 +41,18 @@ namespace Project2_Sem3.Controllers
         // GET: Employees/Details/5
         public async Task<IActionResult> Details(string id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var employee = await _context.Employees.FirstOrDefaultAsync(m => m.Id == id);
+            var employee = await _context.Employees.FirstOrDefaultAsync(e => e.Id == id);
             if (employee == null)
             {
                 return NotFound();
             }
 
-            return View(employee);
+            ViewBag.Employee = employee;
+            return View();
         }
+
 
         // Other controller actions like Create, Edit, Delete can be implemented similarly
     }
 }
+
